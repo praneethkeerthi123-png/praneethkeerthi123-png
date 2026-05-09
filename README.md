@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:9b4f6f,100:5b92a6&text=Hey!%20I'm%20Praneeth&fontColor=ffffff&fontSize=55&fontAlignY=45&descAlignY=65" alt="Hey! I'm Praneeth" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:9b4f6f,100:5b92a6&text=Hey!%20I'm%20Praneeth%20Keerthi&fontColor=ffffff&fontSize=48&fontAlignY=45&descAlignY=65" alt="Hey! I'm Praneeth Keerthi" />
 </p>
+
+
 
 <h1 align="center">Open-Source Contributor</h1>
 
