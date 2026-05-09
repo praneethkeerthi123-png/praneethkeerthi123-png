@@ -8,12 +8,6 @@
 
 
 
-<h1 align="center">Open-Source Contributor</h1>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praneethkeerthi123-png&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Achievements" />
-</p>
-
 <h2 align="center">About Me</h2>
 
 <p align="center">
