@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:9b4f6f,100:5b92a6&text=Hey!%20I'm%20Praneeth%20Keerthi&fontColor=ffffff&fontSize=48&fontAlignY=45&descAlignY=65" alt="Hey! I'm Praneeth Keerthi" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff4d8d,50:7b2ff7,100:00c6ff&text=Hey!%20I'm%20Praneeth%20Keerthi&fontColor=ffffff&fontSize=48&fontAlignY=45&animation=fadeIn" alt="Hey! I'm Praneeth Keerthi" />
 </p>
 
 
