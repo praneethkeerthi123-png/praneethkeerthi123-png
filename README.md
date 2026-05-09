@@ -11,10 +11,10 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  Currently diving into <b>Full-Stack Development</b><br />
-  Passionate about crafting aesthetic, responsive, and user-friendly interfaces<br />
-  Proficient in <b>C, C++, Python, HTML, CSS, JavaScript, React, Node.js, MySQL, MongoDB</b><br />
-  Always learning, building, and improving one project at a time
+  I’m <b>Praneeth Keerthi</b>, a curious and creative developer passionate about building clean, responsive, and user-friendly web experiences.<br />
+  I enjoy turning ideas into real projects, learning new technologies, and improving my skills one step at a time.<br />
+  Currently exploring <b>Full-Stack Development</b> and strengthening my skills in <b>Python, C++, JavaScript, HTML, CSS, and React</b>.<br />
+  Always excited to create, experiment, and grow as a developer.
 </p>
 
 ---
