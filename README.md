@@ -33,9 +33,3 @@
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=praneethkeerthi123-png&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethkeerthi123-png&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
