@@ -11,9 +11,9 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  I’m <b>Praneeth Keerthi</b>, a curious and creative developer passionate about building clean, responsive, and user-friendly web experiences.<br />
+  I’m <b>Praneeth Keerthi</b>, a curious and creative developer passionate about building clean, responsive, and user-friendly web experiences.
   I enjoy turning ideas into real projects, learning new technologies, and improving my skills one step at a time.<br />
-  Currently exploring <b>Full-Stack Development</b> and strengthening my skills in <b>Python, C++, JavaScript, HTML, CSS, and React</b>.<br />
+  Currently exploring <b>Full-Stack Development</b> and strengthening my skills in <b>Python, C++, JavaScript, HTML, CSS, and React</b>.
   Always excited to create, experiment, and grow as a developer.
 </p>
 
